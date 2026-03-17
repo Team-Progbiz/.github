@@ -9,11 +9,11 @@ Welcome to the official GitHub organization for **Progbiz**. We are a leading in
 
 We operate as a multi-disciplinary powerhouse, bridging the gap between complex technology and business growth.
 
-* **🤖 AI & Automation:** Architecting the future with LLMs, autonomous AI voice agents (Malayalam & English), and complex n8n/Pipedrive workflows.
-* **💻 Web & Mobile Development:** Engineering scalable enterprise software, E-commerce platforms, and high-performance mobile applications.
-* **🎨 Experience Design:** Crafting user-centric UI/UX, 2D/3D visualizations, and strategic brand identities.
-* **📈 Digital Marketing:** Specializing in performance marketing, SEO, and Meta/WhatsApp API advertising strategies.
-* **⚙️ Management & Operations:** Developing internal solutions for HRMS, CRM, and Inventory Management to streamline global business workflows.
+* ** AI & Automation:** Architecting the future with LLMs, autonomous AI voice agents (Malayalam & English), and complex n8n/Pipedrive workflows.
+* ** Web & Mobile Development:** Engineering scalable enterprise software, E-commerce platforms, and high-performance mobile applications.
+* ** Experience Design:** Crafting user-centric UI/UX, 2D/3D visualizations, and strategic brand identities.
+* ** Digital Marketing:** Specializing in performance marketing, SEO, and Meta/WhatsApp API advertising strategies.
+* ** Management & Operations:** Developing internal solutions for HRMS, CRM, and Inventory Management to streamline global business workflows.
 
 ---
 
